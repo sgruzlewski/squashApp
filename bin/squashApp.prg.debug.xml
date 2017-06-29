@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="38" pc="268435456" symbol="clearScore"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="39" pc="268435468" symbol="clearScore"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="40" pc="268435479" symbol="clearScore"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="41" pc="268435492" symbol="clearScore"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="42" pc="268435505" symbol="clearScore"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="43" pc="268435518" symbol="clearScore"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="44" pc="268435531" symbol="clearScore"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="46" pc="268435547" symbol="clearScore"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="51" pc="268435564" symbol="handleTime"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="53" pc="268435576" symbol="handleTime"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="54" pc="268435576" symbol="handleTime"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="55" pc="268435576" symbol="handleTime"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="57" pc="268435576" symbol="handleTime"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="57" pc="268435587" symbol="handleTime"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="57" pc="268435600" symbol="handleTime"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="58" pc="268435604" symbol="handleTime"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="58" pc="268435615" symbol="handleTime"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="58" pc="268435628" symbol="handleTime"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="59" pc="268435632" symbol="handleTime"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="59" pc="268435643" symbol="handleTime"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="59" pc="268435656" symbol="handleTime"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="61" pc="268435660" symbol="handleTime"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="61" pc="268435677" symbol="handleTime"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="62" pc="268435699" symbol="handleTime"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="67" pc="268435719" symbol="recordingStatus"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="69" pc="268435731" symbol="recordingStatus"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="70" pc="268435742" symbol="recordingStatus"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="73" pc="268435769" symbol="recordingStatus"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="73" pc="268435782" symbol="recordingStatus"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="73" pc="268435795" symbol="recordingStatus"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="73" pc="268435808" symbol="recordingStatus"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="74" pc="268435824" symbol="recordingStatus"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="78" pc="268435841" symbol="modifyServe"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="80" pc="268435853" symbol="modifyServe"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="80" pc="268435864" symbol="modifyServe"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="82" pc="268435880" symbol="modifyServe"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="84" pc="268435891" symbol="modifyServe"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="85" pc="268435904" symbol="modifyServe"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="86" pc="268435917" symbol="modifyServe"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="88" pc="268435936" symbol="modifyServe"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="90" pc="268435953" symbol="modifyServe"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="91" pc="268435972" symbol="modifyServe"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="98" pc="268436002" symbol="modifyServe"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="99" pc="268436015" symbol="modifyServe"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="100" pc="268436028" symbol="modifyServe"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="102" pc="268436047" symbol="modifyServe"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="104" pc="268436064" symbol="modifyServe"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="105" pc="268436083" symbol="modifyServe"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="110" pc="268436102" symbol="modifyServe"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="113" pc="268436148" symbol="modifyServe"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="114" pc="268436167" symbol="modifyServe"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="115" pc="268436180" symbol="modifyServe"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="116" pc="268436193" symbol="modifyServe"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="117" pc="268436206" symbol="modifyServe"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="118" pc="268436219" symbol="modifyServe"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="121" pc="268436235" symbol="modifyServe"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="124" pc="268436281" symbol="modifyServe"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="125" pc="268436300" symbol="modifyServe"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="126" pc="268436313" symbol="modifyServe"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="127" pc="268436326" symbol="modifyServe"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="128" pc="268436339" symbol="modifyServe"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="129" pc="268436352" symbol="modifyServe"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="133" pc="268436368" symbol="modifyServe"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="136" pc="268436385" symbol="actTime"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="137" pc="268436397" symbol="actTime"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="138" pc="268436419" symbol="actTime"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="139" pc="268436441" symbol="actTime"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="145" pc="268436464" symbol="initialize"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="146" pc="268436468" symbol="initialize"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="147" pc="268436486" symbol="initialize"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="148" pc="268436528" symbol="initialize"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="149" pc="268436560" symbol="initialize"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="153" pc="268436574" symbol="onSnsr"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="155" pc="268436578" symbol="onSnsr"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="156" pc="268436588" symbol="onSnsr"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="157" pc="268436588" symbol="onSnsr"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="159" pc="268436601" symbol="onSnsr"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="164" pc="268436623" symbol="onSnsr"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="167" pc="268436636" symbol="onSnsr"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="172" pc="268436653" symbol="onLayout"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="173" pc="268436657" symbol="onLayout"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="179" pc="268436695" symbol="onShow"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="183" pc="268436700" symbol="onUpdate"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="185" pc="268436704" symbol="onUpdate"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="187" pc="268436724" symbol="onUpdate"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="189" pc="268436760" symbol="onUpdate"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="191" pc="268436814" symbol="onUpdate"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="193" pc="268436846" symbol="onUpdate"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="194" pc="268436900" symbol="onUpdate"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="195" pc="268436954" symbol="onUpdate"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="196" pc="268437008" symbol="onUpdate"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="198" pc="268437062" symbol="onUpdate"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="200" pc="268437099" symbol="onUpdate"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="201" pc="268437153" symbol="onUpdate"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="205" pc="268437210" symbol="onUpdate"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="211" pc="268437227" symbol="onUpdate"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="212" pc="268437250" symbol="onUpdate"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="213" pc="268437273" symbol="onUpdate"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="214" pc="268437273" symbol="onUpdate"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="215" pc="268437289" symbol="onUpdate"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="218" pc="268437303" symbol="onUpdate"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="218" pc="268437322" symbol="onUpdate"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="218" pc="268437347" symbol="onUpdate"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="220" pc="268437360" symbol="onUpdate"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="221" pc="268437411" symbol="onUpdate"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="222" pc="268437462" symbol="onUpdate"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="223" pc="268437513" symbol="onUpdate"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="225" pc="268437564" symbol="onUpdate"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="226" pc="268437618" symbol="onUpdate"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="228" pc="268437672" symbol="onUpdate"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="228" pc="268437689" symbol="onUpdate"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="230" pc="268437789" symbol="onUpdate"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="232" pc="268437886" symbol="onUpdate"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="234" pc="268437981" symbol="onUpdate"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="236" pc="268438013" symbol="onUpdate"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="242" pc="268438084" symbol="onUpdate"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="244" pc="268438138" symbol="onUpdate"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="246" pc="268438170" symbol="onUpdate"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="247" pc="268438187" symbol="onUpdate"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="250" pc="268438234" symbol="onUpdate"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashView.mc" lineNum="257" pc="268438265" symbol="onHide"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashDelegate.mc" lineNum="9" pc="268438270" symbol="initialize"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashDelegate.mc" lineNum="10" pc="268438274" symbol="initialize"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashDelegate.mc" lineNum="13" pc="268438293" symbol="onMenu"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashDelegate.mc" lineNum="14" pc="268438297" symbol="onMenu"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashDelegate.mc" lineNum="15" pc="268438314" symbol="onMenu"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashDelegate.mc" lineNum="18" pc="268438318" symbol="onPreviousPage"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashDelegate.mc" lineNum="19" pc="268438322" symbol="onPreviousPage"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashDelegate.mc" lineNum="21" pc="268438339" symbol="onPreviousPage"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashDelegate.mc" lineNum="24" pc="268438343" symbol="onNextPage"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashDelegate.mc" lineNum="25" pc="268438347" symbol="onNextPage"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashDelegate.mc" lineNum="27" pc="268438364" symbol="onNextPage"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashDelegate.mc" lineNum="30" pc="268438368" symbol="onSelect"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashDelegate.mc" lineNum="32" pc="268438372" symbol="onSelect"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashDelegate.mc" lineNum="33" pc="268438424" symbol="onSelect"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashDelegate.mc" lineNum="35" pc="268438442" symbol="onSelect"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashDelegate.mc" lineNum="36" pc="268438459" symbol="onSelect"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashDelegate.mc" lineNum="37" pc="268438498" symbol="onSelect"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashDelegate.mc" lineNum="38" pc="268438560" symbol="onSelect"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashDelegate.mc" lineNum="39" pc="268438578" symbol="onSelect"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashDelegate.mc" lineNum="40" pc="268438595" symbol="onSelect"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashDelegate.mc" lineNum="44" pc="268438655" symbol="onSelect"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashDelegate.mc" lineNum="45" pc="268438673" symbol="onSelect"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashDelegate.mc" lineNum="46" pc="268438691" symbol="onSelect"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashDelegate.mc" lineNum="47" pc="268438700" symbol="onSelect"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashDelegate.mc" lineNum="48" pc="268438717" symbol="onSelect"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashDelegate.mc" lineNum="52" pc="268438744" symbol="onSelect"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashApp.mc" lineNum="6" pc="268438748" symbol="initialize"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashApp.mc" lineNum="7" pc="268438752" symbol="initialize"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashApp.mc" lineNum="11" pc="268438771" symbol="onStart"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashApp.mc" lineNum="15" pc="268438776" symbol="onStop"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashApp.mc" lineNum="19" pc="268438781" symbol="getInitialView"/>
+<entry filename="/Users/sebastiangruzlewski/Documents/workspace/squashApp/source/squashApp.mc" lineNum="20" pc="268438785" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="15" pc="268438853" symbol="initialize"/>
+<entry filename="Rez" lineNum="16" pc="268438857" symbol="initialize"/>
+<entry filename="Rez" lineNum="17" pc="268438875" symbol="initialize"/>
+<entry filename="Rez" lineNum="18" pc="268438927" symbol="initialize"/>
+<entry filename="Rez" lineNum="33" pc="268438980" symbol="MainLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="25" symbol="timerHelper"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="27" symbol="timeMinutes"/>
+<entry field="true" id="22" symbol="activityDetails"/>
+<entry field="true" id="30" symbol="activityTime"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry id="46" object="true" symbol="MainMenu"/>
+<entry id="8389619" method="true" symbol="onSelect"/>
+<entry field="true" id="11" symbol="player2Name"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="42" object="true" symbol="squashApp"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry field="true" id="24" symbol="timeElapsed"/>
+<entry id="35" method="true" symbol="clearScore"/>
+<entry id="47" method="true" symbol="MainLayout"/>
+<entry field="true" id="20" symbol="currentHR"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8388638" module="true" symbol="ActivityRecording"/>
+<entry field="true" id="15" symbol="p1Counter"/>
+<entry id="8388636" module="true" symbol="Attention"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="52" method="true" symbol="onSnsr"/>
+<entry field="true" id="51" symbol="AppName"/>
+<entry id="40" object="true" symbol="squashView"/>
+<entry id="38" method="true" symbol="modifyServe"/>
+<entry id="8388890" symbol="sport"/>
+<entry field="true" id="8388892" symbol="name"/>
+<entry field="true" id="17" symbol="activityStatus"/>
+<entry field="true" id="31" symbol="czas"/>
+<entry id="8389080" method="true" symbol="onMenu"/>
+<entry field="true" id="18" symbol="player1SetScore"/>
+<entry id="8389078" method="true" symbol="onNextPage"/>
+<entry id="54" symbol="item_2"/>
+<entry id="53" symbol="item_1"/>
+<entry field="true" id="45" symbol="LauncherIcon"/>
+<entry id="8388646" module="true" object="true" symbol="Timer"/>
+<entry field="true" id="33" symbol="actMin"/>
+<entry field="true" id="49" symbol="menu_label_2"/>
+<entry field="true" id="48" symbol="menu_label_1"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="41" object="true" symbol="squashDelegate"/>
+<entry field="true" id="13" symbol="player2Score"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="14" symbol="servingPlayer"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="26" symbol="timeSeconds"/>
+<entry field="true" id="32" symbol="actSec"/>
+<entry field="true" id="28" symbol="timeHours"/>
+<entry id="39" method="true" symbol="actTime"/>
+<entry field="true" id="8388651" symbol="session"/>
+<entry field="true" id="29" symbol="testTime"/>
+<entry field="true" id="23" symbol="systemTime"/>
+<entry id="44" module="true" symbol="Layouts"/>
+<entry field="true" id="50" symbol="prompt"/>
+<entry id="8389079" method="true" symbol="onPreviousPage"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="19" symbol="player2SetScore"/>
+<entry field="true" id="16" symbol="p2Counter"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="34" symbol="actH"/>
+<entry field="true" id="9" symbol="appName"/>
+<entry field="true" id="10" symbol="player1Name"/>
+<entry id="43" module="true" symbol="Menus"/>
+<entry id="36" method="true" symbol="handleTime"/>
+<entry field="true" id="21" symbol="caloriesBurned"/>
+<entry id="37" method="true" symbol="recordingStatus"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry field="true" id="12" symbol="player1Score"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435564" name="command" stackId="1" startPc="268435456"/>
+<entry endPc="268435718" name="secondsHlp" stackId="4" startPc="268435576"/>
+<entry endPc="268435718" name="minutesHlp" stackId="5" startPc="268435576"/>
+<entry endPc="268435718" name="hoursHlp" stackId="6" startPc="268435576"/>
+<entry endPc="268435719" name="hours" stackId="3" startPc="268435564"/>
+<entry endPc="268435719" name="minutes" stackId="2" startPc="268435564"/>
+<entry endPc="268435719" name="seconds" stackId="1" startPc="268435564"/>
+<entry endPc="268435841" name="status" stackId="1" startPc="268435719"/>
+<entry endPc="268436385" name="increase" stackId="1" startPc="268435841"/>
+<entry endPc="268436464" name="time" stackId="1" startPc="268436385"/>
+<entry endPc="268436652" name="HR" stackId="2" startPc="268436578"/>
+<entry endPc="268436652" name="bucket" stackId="3" startPc="268436578"/>
+<entry endPc="268436653" name="sensor_info" stackId="1" startPc="268436574"/>
+<entry endPc="268436695" name="dc" stackId="1" startPc="268436653"/>
+<entry endPc="268438064" name="activityTimeSec" stackId="2" startPc="268437227"/>
+<entry endPc="268438265" name="dc" stackId="1" startPc="268436700"/>
+<entry endPc="268438747" name="vibrateData" stackId="1" startPc="268438372"/>
+<entry endPc="268438776" name="state" stackId="1" startPc="268438771"/>
+<entry endPc="268438781" name="state" stackId="1" startPc="268438776"/>
+<entry endPc="268438993" name="dc" stackId="1" startPc="268438980"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="clearScore">
+<param id="command"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="handleTime">
+<param id="seconds"/>
+<param id="minutes"/>
+<param id="hours"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="recordingStatus">
+<param id="status"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="modifyServe">
+<param id="increase"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="actTime">
+<param id="time"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="squashView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSnsr" parent="squashView">
+<param id="sensor_info"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="squashView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="squashView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="squashView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="squashView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="squashDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenu" parent="squashDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onPreviousPage" parent="squashDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onNextPage" parent="squashDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSelect" parent="squashDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="squashApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="squashApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="squashApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="squashApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="MainMenu">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="438" parentId="globals" symbolId="squashApp" type="class"/>
+<dataEntry offset="509" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="588" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="627" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="666" parentId="Menus" symbolId="MainMenu" type="class"/>
+<dataEntry offset="713" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="744" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="775" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="814" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="877" parentId="globals" symbolId="squashView" type="class"/>
+<dataEntry offset="964" parentId="globals" symbolId="squashDelegate" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>
