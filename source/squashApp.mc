@@ -1,7 +1,10 @@
 using Toybox.Application as App;
 using Toybox.WatchUi as Ui;
 
+
 class squashApp extends App.AppBase {
+
+
 
     function initialize() {
         AppBase.initialize();

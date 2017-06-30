@@ -1,8 +1,11 @@
 <strings>
-    <string id="AppName">squash</string>
+    <string id="AppName">SquashApp</string>
 
     <string id="prompt">Click the menu button</string>
 
-    <string id="menu_label_1">Item 1</string>
-    <string id="menu_label_2">Item 2</string>
+    <string id="menu_label_1">Save Activity</string>
+    <string id="menu_label_2">Discard Activity</string>
+    <string id="menu_label_3">Cancel</string>
+    <string id="player1Name">Home</string>
+    <string id="player2Name">Guest</string>
 </strings>

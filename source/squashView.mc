@@ -5,6 +5,8 @@ using Toybox.Sensor as Snsr;
 using Toybox.Activity as Act;
 using Toybox.Time as Time;
 using Toybox.Timer as Timer;
+using Toybox.System as Sys;
+
 
 var appName = "SqashApp";
 var player1Name = "Home";
@@ -183,6 +185,8 @@ class squashView extends Ui.View {
     function onUpdate(dc) {
         // Call the parent onUpdate function to redraw the layout
         View.onUpdate(dc);
+       player1Name = Application.getApp().getProperty("player1Name"); 
+       player2Name = Application.getApp().getProperty("player2Name");
 
 	dc.setColor( Gfx.COLOR_WHITE, Gfx.COLOR_TRANSPARENT );    
         
