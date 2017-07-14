@@ -47,8 +47,8 @@ class squashDelegate extends Ui.BehaviorDelegate {
         if( Toybox has :ActivityRecording ) {
             if( ( session == null ) || ( session.isRecording() == false ) ) {
                 session = Record.createSession({:name=>"Squash", :sport=>Record.SPORT_GENERIC, :subSport=>Record.SUB_SPORT_MATCH});
-                session_field_player_1 = session.createField("Player 1 Score", 0, Fit.DATA_TYPE_FLOAT, {:mesgType=>Fit.MESG_TYPE_RECORD, :units=>"B"});
-                session_field_player_2 = session.createField("Player 2 Score", 1, Fit.DATA_TYPE_FLOAT, {:mesgType=>Fit.MESG_TYPE_RECORD, :units=>"B"});
+                /*session_field_player_1 = session.createField("Player 1 Score", 0, Fit.DATA_TYPE_FLOAT, {:mesgType=>Fit.MESG_TYPE_RECORD, :units=>"B"});
+                session_field_player_2 = session.createField("Player 2 Score", 1, Fit.DATA_TYPE_FLOAT, {:mesgType=>Fit.MESG_TYPE_RECORD, :units=>"B"});*/
                 session.start();
                 recordingStatus(1);
                 Attention.playTone(1);

@@ -34,6 +34,8 @@ var czas;
 var actSec;
 var actMin;
 var actH;
+var maxScore = 11;
+var serveScore = true;
 
 
 
@@ -85,7 +87,10 @@ function modifyServe(increase) {
     {
     servingPlayer = 1;
     p2Counter = 0;
-    p1Counter++;
+    if (serveScore == true)
+    {p1Counter++;}
+    else if (serveScore == false)
+    {p1Counter = 2;}
     
     if (p1Counter == 2)
     {
@@ -99,7 +104,10 @@ function modifyServe(increase) {
     {
     servingPlayer = 2;
     p1Counter = 0;
-    p2Counter++;
+    if (serveScore == true)
+    {p2Counter++;}
+    else if (serveScore == false)
+    {p2Counter = 2;}
     
     if (p2Counter == 2)
     {
@@ -109,7 +117,7 @@ function modifyServe(increase) {
     
     }
     
-    if (player1Score > 10 && (player1Score - player2Score) > 1)
+    if (player1Score >= maxScore && (player1Score - player2Score) > 1)
     
     {
     player1SetScore++;
@@ -120,7 +128,7 @@ function modifyServe(increase) {
     servingPlayer = 0;
     }
     
-    if (player2Score > 10 && (player2Score - player1Score) > 1)
+    if (player2Score >= maxScore && (player2Score - player1Score) > 1)
     
     {
     player2SetScore++;
@@ -187,6 +195,8 @@ class squashView extends Ui.View {
         View.onUpdate(dc);
        player1Name = Application.getApp().getProperty("player1Name"); 
        player2Name = Application.getApp().getProperty("player2Name");
+       maxScore = Application.getApp().getProperty("maxScore");
+       serveScore = Application.getApp().getProperty("serveScore");
 
 	dc.setColor( Gfx.COLOR_WHITE, Gfx.COLOR_TRANSPARENT );    
         
